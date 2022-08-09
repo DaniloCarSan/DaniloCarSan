@@ -1,6 +1,13 @@
+
 ## 	:earth_americas: Hello World !
 
 Olá, meu nome é Danilo, tenho 23 anos. O primeiro contato com programação foi em um curso técnico, 2017, a primeiro momento conheci e aprendi linguagem de programação PHP e Javascript. Desde então, venho me aprofundando e desenvolvendo aplicações web com PHP, Javascript, CSS, HTML e o framework Laravel. Desde 2020 venho desenvolvendo aplicativos com o framework Flutter e a linguagem de programação Dart.
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilocarsan&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilocarsan&layout=compact&langs_count=10&card_width=500"/>
+</div>
 
 ## 📱 Contato
 <div>
@@ -57,11 +64,3 @@ Olá, meu nome é Danilo, tenho 23 anos. O primeiro contato com programação fo
 ## :hammer_and_wrench: Ferramentas e tecnologias que já tive contato | quero aprender | tenho curiosidade
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"> <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"> <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"> <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"> <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-
-##
-<div align="center">
-  <a href="https://github.com/DaniloCarSan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilocarsan&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilocarsan&layout=compact&langs_count=10&theme=cobalt"/>
-  </a>
-</div>
