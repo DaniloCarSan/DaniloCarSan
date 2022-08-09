@@ -6,7 +6,7 @@ Olá, meu nome é Danilo, tenho 23 anos. O primeiro contato com programação fo
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilocarsan&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilocarsan&layout=compact&langs_count=10&card_width=500"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilocarsan&layout=compact&langs_count=10"/>
 </div>
 
 ## 📱 Contato
