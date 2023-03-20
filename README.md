@@ -41,7 +41,7 @@ Olá, meu nome é Danilo, tenho 24 anos. Meu primeiro contato com programação 
   - Desenvolvimento de apis restfull
   - Golang
 
-# 📖: Últimas leituras
+# 📖 Últimas leituras
 - Design Patterns (lendo atualmente)
 - Domain -Driven Design 
 - Clean Architecture
