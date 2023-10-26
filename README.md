@@ -1,7 +1,7 @@
 
 ## 	:earth_americas: Hello World !
 
-Olá, meu nome é Danilo, tenho 24 anos. Meu primeiro contato com programação foi em um curso técnico, 2017, conheci e aprendi as linguagens de programação PHP e Javascript. Desde então, venho me aprofundando e desenvolvendo aplicações web com PHP, Javascript, CSS, HTML e o framework Laravel. Desde 2020 venho desenvolvendo aplicativos mobile com framework Flutter e a linguagem de programação Dart.
+Olá, meu nome é Danilo, tenho 25 anos. Meu primeiro contato com programação foi em um curso técnico, 2017, conheci e aprendi as linguagens de programação PHP e Javascript. Desde então, venho me aprofundando e desenvolvendo aplicações web com PHP, Javascript, CSS, HTML e o framework Laravel. Desde 2020 venho desenvolvendo aplicativos mobile com framework Flutter e a linguagem de programação Dart.
 
 
 <div align="center">
@@ -37,12 +37,13 @@ Olá, meu nome é Danilo, tenho 24 anos. Meu primeiro contato com programação 
 # :books: Estudando atualmente
   - Padrões de projeto
   - Testes
-  - OpenApi
   - Desenvolvimento de apis restfull
   - Golang
+  - Java
 
 # 📖 Últimas leituras
-- Design Patterns (lendo atualmente)
+- Refatoração (lendo atualmente)
+- Design Patterns
 - Domain -Driven Design 
 - Clean Architecture
 - Clean Code
