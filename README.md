@@ -1,7 +1,7 @@
 
 ## 	:earth_americas: Hello World !
 
-Olá, meu nome é Danilo, tenho 25 anos. Meu primeiro contato com programação foi em um curso técnico, 2017, conheci e aprendi as linguagens de programação PHP e Javascript. Desde então, venho me aprofundando e desenvolvendo aplicações web com PHP e framework Laravel.
+Olá, meu nome é Danilo. Meu primeiro contato com programação foi em um curso técnico, 2017, conheci e aprendi as linguagens de programação PHP e Javascript. Desde então, venho me aprofundando e desenvolvendo aplicações web com PHP e framework Laravel.
 
 
 <div align="center">
